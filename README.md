@@ -22,14 +22,14 @@
 - 한국어 자소 특화 토큰화 및 평가 지표를 통한 복합된 형태의 한국어 문법 오류 수정 (Korean Grammatical Error Correction for Complex Error Types with Tokenizing & Metrics Specialized in Korean Phonemes)
   - Seunguk Yu, **Jungmin Yun**, Kyohoon Jin, Youngbin Kim
   - 2023 Summer Annual Conference of IEIE
-  - [우수학생논문상] Best Paper Award 
+  - Best Paper Award [우수학생논문상] 
 - 시간적 텍스트: 시간 인지 리뷰를 활용한 추천 시스템 (Temporal Texts: Leveraging Time-Aware Reviews for Enhanced Recommendation Systems)
   - Yeonghwa Kim, Jooweon Choi, **Jungmin Yun**, Kyohoon Jin, and Youngbin Kim
   - 2023 Summer Annual Conference of IEIE
 - Core-token attention: 토큰 프루닝 기반 셀프 어텐션 경량화 메커니즘 (Core-token Attention: Token Pruning-based Lightweight Self-Attention Mechanism)
   - **Jungmin Yun**, Eunju Lee, Kyohoon Jin, Soojin Jang, Jooweon Choi, Bilan Gao, and Youngbin Kim
   - 2022 Summer Annual Conference of IEIE
-  - [총장상] Best Paper Award
+  - Best Paper Award [총장상]
   - [[Link]](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11133107) 
 - 한국 고문서 분석을 위한 시간 정보가 반영된 동적 워드 임베딩 기법 (Korean Historical Documents Analysis with Improved Dynamic Word Embedding)
   - Kyohoon Jin, **Jungmin Yun**, Jaehoon Park, Sangmin Song, Soojin Jang and Youngbin Kim
