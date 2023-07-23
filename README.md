@@ -36,7 +36,6 @@
 ## Skills
 
 ### Languages
-- Native: Korean
 - Fluent: English
 - Elementary: French
 
