@@ -11,11 +11,9 @@
   - Sangmin Song, **Jungmin Yun**, Kyohoon Jin and Youngbin Kim
   - 2023 International Conference on Electronics, Information, and Communication (ICEIC)
 - TBU
-  - *(Ongoing process in 2023 EMNLP) ...*
-- TBU
-  - *(Ongoing process in 2023 CIKM) ...*
-- TBU
-  - *(Ongoing process in 2023 IEEE) ...*
+  - *(Ongoing process in 2023 EMNLP) ...*  
+  - *(Ongoing process in 2023 CIKM) ...*  
+  - *(Ongoing process in 2023 IEEE) ...*  
 
 
 ## Domestic Publications
