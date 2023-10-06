@@ -14,7 +14,7 @@
   - IEEE/IEIE ICCE-Asia 2023
 - A Fair Comparison of PLM Based Mathematical Approach for Solving Math Word Problems
   - Sangmin Song, **Jungmin Yun**, Kyohoon Jin and Youngbin Kim
-  - 2023 International Conference on Electronics, Information, and Communication (ICEIC)
+  - ICEIC 2023 : International Conference on Electronics, Information, and Communication
 - TBU
   - *(Ongoing process in 2023 EMNLP) ...*  
 
