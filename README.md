@@ -9,6 +9,9 @@
 - Gomain-Adaptive Vision Transformers for Generalizing Across Visual Domains
   - Yunsung Cho, **Jungmin Yun**, Junehyoung Kwon and Youngbin Kim
   - IEEE ACCESS, 2023
+- Time Enhanced Recommendations: Capturing Dynamic User Preferences through Time-aware Reviews
+  - Yeonghwas Kim, Jooweon Choi, **Jungmin Yun**, Kyohoon Jin and Youngbin Kim
+  - IEEE/IEIE ICCE-Asia 2023
 - A Fair Comparison of PLM Based Mathematical Approach for Solving Math Word Problems
   - Sangmin Song, **Jungmin Yun**, Kyohoon Jin and Youngbin Kim
   - 2023 International Conference on Electronics, Information, and Communication (ICEIC)
