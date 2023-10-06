@@ -6,14 +6,14 @@
 - Research Interest: Deep Learning, Natural Language Processing and Lightweight Strategy for Large Language Models.
 
 ## Publications
-
+- Gomain-Adaptive Vision Transformers for Generalizing Across Visual Domains
+  - Yunsung Cho, **Jungmin Yun**, Junehyoung Kwon and Youngbin Kim
+  - IEEE ACCESS, 2023
 - A Fair Comparison of PLM Based Mathematical Approach for Solving Math Word Problems
   - Sangmin Song, **Jungmin Yun**, Kyohoon Jin and Youngbin Kim
   - 2023 International Conference on Electronics, Information, and Communication (ICEIC)
 - TBU
   - *(Ongoing process in 2023 EMNLP) ...*  
-  - *(Ongoing process in 2023 CIKM) ...*  
-  - *(Ongoing process in 2023 IEEE) ...*  
 
 
 ## Domestic Publications
