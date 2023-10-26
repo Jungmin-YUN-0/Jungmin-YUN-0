@@ -6,6 +6,9 @@
 - Research Interest: Deep Learning, Natural Language Processing and Lightweight Strategy for Large Language Models.
 
 ## International Journals/Conferences
+- Focus on the Core: Efficient Attention via Pruned Token Compression for Document Classification
+  - **Jungmin Yun**, Mihyeon Kim and Youngbin Kim
+  - EMNLP Findings, 2023
 - Gomain-Adaptive Vision Transformers for Generalizing Across Visual Domains
   - Yunsung Cho, **Jungmin Yun**, Junehyoung Kwon and Youngbin Kim
   - IEEE ACCESS, 2023
