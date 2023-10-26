@@ -9,7 +9,7 @@
 - Focus on the Core: Efficient Attention via Pruned Token Compression for Document Classification
   - **Jungmin Yun**, Mihyeon Kim and Youngbin Kim
   - EMNLP Findings, 2023
-- Gomain-Adaptive Vision Transformers for Generalizing Across Visual Domains
+- Domain-Adaptive Vision Transformers for Generalizing Across Visual Domains
   - Yunsung Cho, **Jungmin Yun**, Junehyoung Kwon and Youngbin Kim
   - IEEE ACCESS, 2023
 - Time Enhanced Recommendations: Capturing Dynamic User Preferences through Time-aware Reviews
