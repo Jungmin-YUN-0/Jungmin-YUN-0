@@ -26,6 +26,12 @@
 
 
 ## Domestic Publications
+- 기계번역에서 효율적인 도메인 적응을 위한 적응형 데이터스토어 리사이징
+  - Jinehee Jang, Juhwan Choi, **Jungmin Yun**, and Youngbin Kim
+  - 2024 Summer Annual Conference of IEIE
+- 데이터 증강 및 대조학습 기반의 의료 이미지 분할 방법
+  - Yoonji Lee, Soojin Jang, **Jungmin Yun**, and Youngbin Kim
+  - 2024 Workshop on Image Processing and Image Understanding
 - 한국어 자소 특화 토큰화 및 평가 지표를 통한 복합된 형태의 한국어 문법 오류 수정 (Korean Grammatical Error Correction for Complex Error Types with Tokenizing & Metrics Specialized in Korean Phonemes)
   - Seunguk Yu, **Jungmin Yun**, Kyohoon Jin, Youngbin Kim
   - 2023 Summer Annual Conference of IEIE
