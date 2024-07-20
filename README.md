@@ -6,21 +6,23 @@
 - Research Interest: Deep Learning, Natural Language Processing and Lightweight Strategy for Large Language Models.
 
 ## International Journals/Conferences
+- DIAL: Dense Image-text ALignment for Weakly Supervised Semantic Segmentation
+  - Soojin Jang, **Jungmin Yun**, Junehyoung Kwon, Eunju Lee, and Younbing Kim
+  - ECCV 2024
 - Focus on the Core: Efficient Attention via Pruned Token Compression for Document Classification
-  - **Jungmin Yun**, Mihyeon Kim and Youngbin Kim
+  - **Jungmin Yun**, Mihyeon Kim, and Youngbin Kim
   - EMNLP Findings, 2023
 - Domain-Adaptive Vision Transformers for Generalizing Across Visual Domains
-  - Yunsung Cho, **Jungmin Yun**, Junehyoung Kwon and Youngbin Kim
+  - Yunsung Cho, **Jungmin Yun**, Junehyoung Kwon, and Youngbin Kim
   - IEEE ACCESS, 2023
 - Time Enhanced Recommendations: Capturing Dynamic User Preferences through Time-aware Reviews
-  - Yeonghwas Kim, Jooweon Choi, **Jungmin Yun**, Kyohoon Jin and Youngbin Kim
+  - Yeonghwas Kim, Jooweon Choi, **Jungmin Yun**, Kyohoon Jin, and Youngbin Kim
   - IEEE/IEIE ICCE-Asia 2023
 - A Fair Comparison of PLM Based Mathematical Approach for Solving Math Word Problems
-  - Sangmin Song, **Jungmin Yun**, Kyohoon Jin and Youngbin Kim
+  - Sangmin Song, **Jungmin Yun**, Kyohoon Jin, and Youngbin Kim
   - ICEIC 2023 : International Conference on Electronics, Information, and Communication
 - TBU
-  - *(Ongoing process in 2024 NAALC) ...*
-  - *(Ongoing process in 2024 ACL) ...*  
+  
 
 
 ## Domestic Publications
