@@ -26,6 +26,9 @@
 
 
 ## Domestic Publications
+- 앙상블 기법을 활용한 NLP의 잘못된 상관관계 감소 통합 접근법
+  - Kyohoon Jin, Juhwan Choi, **Jungmin Yun**, Junho Lee, Soojin Jang, Youngbin Kim
+  - 2024 KICS Summer Conference
 - 기계번역에서 효율적인 도메인 적응을 위한 적응형 데이터스토어 리사이징
   - Jinehee Jang, Juhwan Choi, **Jungmin Yun**, and Youngbin Kim
   - 2024 Summer Annual Conference of IEIE
