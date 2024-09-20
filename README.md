@@ -6,12 +6,18 @@
 - Research Interest: Deep Learning, Natural Language Processing and Lightweight Strategy for Large Language Models.
 
 ## International Journals/Conferences
+- Multi-News+: Cost-efficient Dataset Cleansing via LLM-based Data Annotation
+  - Juhwan Choi, **JungMin Yun**, Kyohoon Jin, YoungBin Kim
+  - EMNLP 2024
+- UniGen: Universal Domain Generalization for Sentiment Classification via Zero-shot Dataset Generation
+  - Juhwan Choi, Yeonghwa Kim, Seunguk Yu, **JungMin Yun**, YoungBin Kim 
+  - EMNLP 2024  
 - DIAL: Dense Image-text ALignment for Weakly Supervised Semantic Segmentation
   - Soojin Jang, **Jungmin Yun**, Junehyoung Kwon, Eunju Lee, and Younbing Kim
   - ECCV 2024
 - Focus on the Core: Efficient Attention via Pruned Token Compression for Document Classification
   - **Jungmin Yun**, Mihyeon Kim, and Youngbin Kim
-  - EMNLP Findings, 2023
+  - EMNLP 2023
 - Domain-Adaptive Vision Transformers for Generalizing Across Visual Domains
   - Yunsung Cho, **Jungmin Yun**, Junehyoung Kwon, and Youngbin Kim
   - IEEE ACCESS, 2023
