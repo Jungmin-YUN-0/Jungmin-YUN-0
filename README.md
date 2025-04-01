@@ -18,6 +18,9 @@
 - DIAL: Dense Image-text ALignment for Weakly Supervised Semantic Segmentation
   - Soojin Jang, **Jungmin Yun**, Junehyoung Kwon, Eunju Lee, and Younbing Kim
   - ECCV 2024
+- PRISM: Personalizing Reporting with Intelligent Summarization through Multiple frames
+  - **Jungmin Yun**, Kyohoon Jin, Sejin Paik, Soojin Jang, Youngbin Kim
+  - IEEE Access, Nov 2024
 - Focus on the Core: Efficient Attention via Pruned Token Compression for Document Classification
   - **Jungmin Yun**, Mihyeon Kim, and Youngbin Kim
   - EMNLP 2023
