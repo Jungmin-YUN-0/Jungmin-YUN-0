@@ -8,7 +8,7 @@
 ## International Journals/Conferences
 - SummPilot: Bridging Efficiency and Customization for Interactive Summarization System
   - **JungMin Yun**, Juhwan Choi, Kyohoon Jin, Soojin Jang, YoungBin Kim
-  - AAAI 2025
+  - AAAI 2025, Demo Track
 - Multi-News+: Cost-efficient Dataset Cleansing via LLM-based Data Annotation
   - Juhwan Choi, **JungMin Yun**, Kyohoon Jin, YoungBin Kim
   - EMNLP 2024
